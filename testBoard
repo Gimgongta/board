@@ -2,8 +2,19 @@
 board : 
 [
   {
+    id:1,
+    name:"gimgongta",
+    text:"gimgonta's text"
   },
   {
+    id:2,
+    name:"ggt",
+    text:"ggt's text"
+  },
+  {
+    id:3,
+    name:"gimgongta",
+    text:"gimgonta's text2"
   }
 ]
 
